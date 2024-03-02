@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\bin\Debug\net8.0\01_UnitTests.exe
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\bin\Debug\net8.0\01_UnitTests.deps.json
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\bin\Debug\net8.0\01_UnitTests.runtimeconfig.json
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\bin\Debug\net8.0\01_UnitTests.dll
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\bin\Debug\net8.0\01_UnitTests.pdb
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\obj\Debug\net8.0\01_UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\obj\Debug\net8.0\01_UnitTests.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\obj\Debug\net8.0\01_UnitTests.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\obj\Debug\net8.0\01_UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\obj\Debug\net8.0\01_UnitTests.dll
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\obj\Debug\net8.0\refint\01_UnitTests.dll
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\obj\Debug\net8.0\01_UnitTests.pdb
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\obj\Debug\net8.0\01_UnitTests.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Unit_Test\UnitTests\01_UnitTests\obj\Debug\net8.0\ref\01_UnitTests.dll

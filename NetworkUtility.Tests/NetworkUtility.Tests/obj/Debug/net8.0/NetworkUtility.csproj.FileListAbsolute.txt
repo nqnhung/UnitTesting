@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\bin\Debug\net8.0\NetworkUtility.exe
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\bin\Debug\net8.0\NetworkUtility.deps.json
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\bin\Debug\net8.0\NetworkUtility.runtimeconfig.json
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\bin\Debug\net8.0\NetworkUtility.dll
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\bin\Debug\net8.0\NetworkUtility.pdb
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\obj\Debug\net8.0\NetworkUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\obj\Debug\net8.0\NetworkUtility.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\obj\Debug\net8.0\NetworkUtility.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\obj\Debug\net8.0\NetworkUtility.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\obj\Debug\net8.0\NetworkUtility.dll
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\obj\Debug\net8.0\refint\NetworkUtility.dll
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\obj\Debug\net8.0\NetworkUtility.pdb
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\obj\Debug\net8.0\NetworkUtility.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Unit_Test\NetworkUtility.Tests\NetworkUtility.Tests\obj\Debug\net8.0\ref\NetworkUtility.dll
